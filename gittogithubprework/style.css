@@ -1,0 +1,80 @@
+
+    body{
+        background-color:cadetblue;
+    }
+    ul{
+        font-family:cursive; color:orange; 
+    }
+    h2{
+        text-decoration:underline; color:orange;
+    }
+    h3{
+        color:orange;
+    }
+    p{
+        font-size:29px; color:orange;
+    }
+    a{
+        color:purple;
+    }
+    .cute{
+        color:yellow;
+    }
+    form{
+        background-color: white; font-style: italic; border-style: ridge; width: 200px; height:400px;
+    }
+    #focus{
+        color:yellow;
+    }
+    .goals{
+        color:yellow;
+    }
+    #exp{
+        color:yellow;
+    }
+    #div1{
+        background-color: gray; width:250; height:275;border:dashed; position:sticky
+    }
+    #div2{
+         background-color: black; width:250px; height: 300px;border:dashed; border-color: white;position:relative
+    }
+    body{
+        background-color:cadetblue;
+    }
+    ul{
+        font-family:cursive;
+    }
+    .bones{
+        text-decoration:underline; color:orange;
+    }
+    #div4{
+        background-color: brown; border:dashed; width: 560px;height: 315px;
+    }
+    p{
+        font-size:29px; color:orange;
+    }
+    a{
+        color:purple;
+    }
+    body{
+        background-color:cadetblue;
+    }
+    ul{
+        font-family:cursive;
+    }
+    h2{
+        text-decoration:underline; color:orange;
+    }
+    #div3{
+        background-color: rgb(46, 29, 29); border: dashed; width: 560px;height: 315px;
+    }
+    p{
+        font-size:29px; color:orange;
+    }
+    a{
+        color:purple;
+    }
+    #table{
+        background-color: white;
+    }
+
